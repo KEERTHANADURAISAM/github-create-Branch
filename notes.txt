@@ -1,0 +1,14 @@
+how to create a Branch
+
+1.initialize repo
+2.click source control
+3.click 3dots...
+4.click create Branch
+5.default branch - main or master
+6.create new branch - branch name
+
+
+how to delete a Branch
+ 
+1.ctrl+shift+p  search git:Delete branch 
+2.selct the branch name delete the branch
